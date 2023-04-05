@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../logo.png"
+//import logo from "../logo.png"
 function home() {
     return (
         <div>
@@ -8,7 +8,7 @@ function home() {
                   {/**  <img src={logo} className="App-logo" alt="logo" /> */}
                     <a
                         className="App-link"
-                        href="https://www.gokturklabs.com/Manifest"
+                        href="https://www.gokturklabs.com/manifest"
                         target="_blank"
                         rel="noopener noreferrer"
                     >

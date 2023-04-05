@@ -4,7 +4,7 @@ function projects() {
   return (
     <div className='App'>
       <header className='App-header'>
-        <p>Projelerimiz</p>
+        <h2>Projelerimiz</h2>
       </header>
     </div>
   )

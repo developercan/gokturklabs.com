@@ -1,16 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import {
   Navbar,
   Container,
-  Nav,
-  Dropdown,
-  NavDropdown,
-  NavLink,
-  Button,
-  Form,
+  Nav
 } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import logo from "./images/logo.png"
+import logo from "../images/logo.png"
 function navigation() {
   return (
     <Navbar id="navbar" bg="dark" variant="dark" expand="sm" >
@@ -24,7 +19,10 @@ function navigation() {
           </Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse>
-            {/*search bar konumu sabitlemek için max-min css / css media rule
+            {/* Buradaki kod bloğunu Iknow Technologies şirketinde staj yaparken yapmış olduğum bir
+            e-ticaret sisteminde yazmıştım. Vakit kaybetmemek adına bir kaç düzenleme yapıp burada yayına aldım.
+            Sistem ile herhangi bir bağı bulunmamakla beraber ileride işime yarayacağını düşünüyorum
+            search bar konumu sabitlemek için max-min css / css media rule
              <Form
                 className="d-flex container"
                 style={{ width: "55%", alignItems: "center" }}
