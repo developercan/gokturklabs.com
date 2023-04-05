@@ -1,3 +1,20 @@
+#GokturkLabs Nedir?
+
+Hedeflerimden birisi gelecekte bir yazılım şirketi kurmak. Bu yüzden yarına yatırım yaparak bu alan adını edinmek istedim. 
+
+#GokturkLabs'in kullanım amacı nedir?
+
+Amacım; Yazılım geliştirme macerası içerisinde öğrendiğim teorik ya da öğrenmek istediğim konularda büyüklüğüne bakmaksızın canlıya alıp
+ideallerimi, bildiğim şeylerin somut örneğini çalışma potansiyelimin olduğu şirketlere göstermektir. Portfölyo olarak düşünülebilir.
+
+#Projeye dair bilgiler:
+
+React.js ile Frontend'i kodlamış olduğum gokturklabs şu anda react-router-dom, mui-material ve bootstrap dependency'lerine sahip.
+
+#Kurulum
+
+Aşağıda bulunan önyüklü react.js dökümantasyonu size rehberlik edecektir. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
