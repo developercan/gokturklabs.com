@@ -11,7 +11,7 @@ function Footer() {
         bottom: "0",
         left: "0",
         right: "0",
-        padding: "0px",
+        padding: "1px",
 
       }}
     >
